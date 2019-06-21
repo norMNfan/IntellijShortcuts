@@ -1,4 +1,4 @@
-# Shortcuts: Intellij | Mac | Chrome 
+# Shortcuts: [Intellij](#intellij) | [Mac](#mac) | [Chrome](#mac) 
 
 Let's stop using our mouses!
 
@@ -9,6 +9,8 @@ Let's stop using our mouses!
 [General Mac Shortcuts](https://support.apple.com/en-us/HT201236)
 
 [Chrome Shortcuts](https://support.google.com/chrome/answer/157179?hl=en)
+
+# Intellij
 
 ## Text Navigation
 
