@@ -1,12 +1,14 @@
-# Intellij Shortcuts For Mac
+# Shortcuts For Mac
 
 Let's stop using our mouses!
 
 [Intellij Official Shortcuts](https://www.jetbrains.com/help/rider/Reference_Keymap_Rider_OSX.html)
 
-[Video series](https://learning.oreilly.com/videos/intellij-idea-tricks/9781788625395) with examples.
+[Video series with examples](https://learning.oreilly.com/videos/intellij-idea-tricks/9781788625395)
 
 [General Mac Shortcuts](https://support.apple.com/en-us/HT201236)
+
+[Chrome Shortcuts](https://support.google.com/chrome/answer/157179?hl=en)
 
 ## Text Navigation
 
@@ -34,13 +36,13 @@ Type in Class.TLE and Intellij will show method with camel case TLE.
 
 ### Move Line and Statements
 
-```⇧ + ⌥ + ↑``` : Move current line up
+```Shift + ⌥ + ↑``` : Move current line up
 
-```⇧ + ⌥ +  ↓``` : Move current line down
+```Shift + ⌥ +  ↓``` : Move current line down
 
-```⇧ + ⌘ + ↑``` : Move method up
+```Shift + ⌘ + ↑``` : Move method up
 
-```⇧ + ⌘ + ↓``` : Move method down
+```Shift + ⌘ + ↓``` : Move method down
 
 ```⌘ + D``` : Duplicate line
 
@@ -69,13 +71,13 @@ Type in Class.TLE and Intellij will show method with camel case TLE.
 
 ```⌥ + ⌘ + O``` : Navigate to a symbol
 
-```⇧ + ⌘ + O``` : Navigate to file
+```Shift + ⌘ + O``` : Navigate to file
 - type file name or file path
 - type folder name with flash at the end to look up folders
 
-```⇧ + ⌘ + A``` : Navigate to Action
+```Shift + ⌘ + A``` : Navigate to Action
 
-```Double-⇧``` : Search Everywhere
+```Double-Shift``` : Search Everywhere
 - Tab : Move between sections in search everywhere window
 
 Search **tab placement** to turn off tabs
@@ -83,17 +85,17 @@ Search **tab placement** to turn off tabs
 ```⌘ + E``` : Recent files
 - Start typing for search
 
-```⇧ + ⌘ + E``` : Recently edited files
+```Shift + ⌘ + E``` : Recently edited files
 
 
 
 ## Code selection
 
-```⇧ + ←``` ```⇧ + →``` : Select one character at a time
+```Shift + ←``` ```Shift + →``` : Select one character at a time
 
-```⇧ + ⌥ + ←``` ```⇧ + ⌥ + →``` : Select one word at a time
+```Shift + ⌥ + ←``` ```Shift + ⌥ + →``` : Select one word at a time
 
-```⇧ + ⌘ + ←``` ```⇧ + ⌘ + →``` : Select everything from cursor to beginning or end of current line
+```Shift + ⌘ + ←``` ```Shift + ⌘ + →``` : Select everything from cursor to beginning or end of current line
 
  ```⌥ + ↑``` : Extend selection
 
@@ -101,7 +103,7 @@ Search **tab placement** to turn off tabs
 
 ## Code Completion
 
-```⇧ + ^ + Space``` : Invoke smart code Completion
+```Shift + ^ + Space``` : Invoke smart code Completion
 
 ```^ + Space``` twice : Display static method suggestion list
 
@@ -149,7 +151,7 @@ Type in var.XXX
 
 ```^ + T``` : Refactor this
 
-```⇧ + F6``` : Rename
+```Shift + F6``` : Rename
 
 ```⌘ + ⌥ + M``` : Extract method
 
@@ -209,14 +211,100 @@ Type in var.XXX
 
 ```Tab``` : Move to next selection in window
 
-```⇧ + Tab``` : Move to previous selection in window
+```Shift + Tab``` : Move to previous selection in window
 
 ```Tab``` : Move the selection one tab stop to the right
 
-```⇧ + Tab``` : Move the selection one tab stop to the left
+```Shift + Tab``` : Move the selection one tab stop to the left
 
 ## Non-coding Related Shortcuts
 
 ```⌘ + ⌥ + Power Button``` : Put Mac to sleep
 
-```⇧ + ⌘ + Q``` : Log out
+```Shift + ⌘ + Q``` : Log out
+
+## Chrome Shortcuts
+
+### Tab and Windows Shortcuts
+
+```⌘ + N``` : Open a new windows
+
+```⌘ + Shift + N``` : Open a new window in incognito mode
+
+```⌘ + T``` : Open a new tab, and jump to it
+
+```⌘ + Shift + T``` : Reopen last closed tab, and jump to it
+
+```⌘ + ⌥ + →``` : Switch to next open tab
+
+```⌘ + ⌥ + ←``` : Switch to pervious open tab
+
+```⌘ + 1 through ⌘ + 8``` : Jump to a specific tab
+
+```⌘ + 9``` : Jump to last tab
+
+```⌘ + ]``` ```⌘ + →``` : Open next page in your browsing history
+
+```⌘ + [``` ```⌘ + ←``` : Open previous page in your browsing history
+
+```⌘ + W``` : Close the current tab or pop-up
+
+```⌘ + Shift + W``` : Close the current window
+
+```⌘ + m``` : Minimize the window
+
+```⌘ + H``` : Hide Google Chrome
+
+```⌘ + Q``` : Quit Google Chrome
+
+### Google Chrome Feature Shortcuts
+
+```⌘ + Shift + B``` : Show or hide Bookmarks Bar
+
+```⌘ + ⌥ + B``` : Open the Bookmarks Manager
+
+```⌘ + ,``` : Open Settings in a new tab
+
+```⌘ + Y```: Open the history in a new tab
+
+```⌘ + Shift + J``` : Open the Downloads in a new tab
+
+```⌘ + ⌥ + I``` : Open Developer Tools
+
+```⌘ + Shift + ⌫``` : Open the Clear Browsing Data options
+
+### Address Bar Shortcuts
+
+```Type a web address + ⌘ + Enter``` : Open the website in new tab
+
+```⌘ + I``` : Jump to the address bar
+
+### Webpage Shortcuts
+
+```⌘ + Shift + R``` : Reload current page, ignoring cached content
+
+```⌘ + D``` : Save your current webpage as a bookmark
+
+```⌘ + ^ + F``` : Turn full-screen mode on or Official
+
+```⌘ and +``` : Make everything on the page bigger
+
+```⌘ and -``` : Make everything on the page smaller
+
+```⌘ + 0``` : Return everything on the page to the default size
+
+```Space``` : Scroll down, one screen at a time
+
+```Shift + Space``` : Scroll up, one screen at a time
+
+```⌘ + ⌥ + F``` : Search the web
+
+```⌘ + Shift + H``` : Open your home page in the current tab
+
+### Mouse Shortcuts
+
+```⌘ + Click a link``` : Open a link in new background tab
+
+```⌘ + Shift + Click a link``` : Open a link, and jump to it
+
+```Shift + Click a link``` : Open a link in a new window
