@@ -1,4 +1,4 @@
-# Shortcuts For Mac
+# Shortcuts: Intellij | Mac | Chrome 
 
 Let's stop using our mouses!
 
