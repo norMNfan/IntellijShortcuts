@@ -177,7 +177,9 @@ Type in var.XXX
 
 ```⌥  + F7``` : Find Usages
 
-## Other Useful Shortcuts For Mac
+# Mac
+
+## General
 
 ```⌘ + C``` : Copy
 
@@ -227,7 +229,7 @@ Type in var.XXX
 
 ```Shift + ⌘ + Q``` : Log out
 
-## Chrome Shortcuts
+# Chrome
 
 ### Tab and Windows Shortcuts
 
