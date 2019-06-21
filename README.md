@@ -287,6 +287,8 @@ Type in var.XXX
 
 ### Webpage Shortcuts
 
+```⌘ + R``` : Reload current page
+
 ```⌘ + Shift + R``` : Reload current page, ignoring cached content
 
 ```⌘ + D``` : Save your current webpage as a bookmark
