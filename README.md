@@ -223,7 +223,7 @@ Type in var.XXX
 
 ```Shift + Tab``` : Move the selection one tab stop to the left
 
-## Non-coding Related Shortcuts
+```Shift + ⌘ + 4``` : Screenshot an area
 
 ```⌘ + ⌥ + Power Button``` : Put Mac to sleep
 
