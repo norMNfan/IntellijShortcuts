@@ -87,7 +87,9 @@ Search **tab placement** to turn off tabs
 
 ```Shift + ⌘ + E``` : Recently edited files
 
+```⌘ + Shift + ]``` : Focus move to the tab to the right
 
+```⌘ + Shift + ]``` : Focus move to the tab to the left
 
 ## Code selection
 
