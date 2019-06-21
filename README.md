@@ -223,7 +223,11 @@ Type in var.XXX
 
 ```Shift + Tab``` : Move the selection one tab stop to the left
 
+```Shift + ⌘ + 3``` : Screenshot fullscreen
+
 ```Shift + ⌘ + 4``` : Screenshot an area
+
+```⌘ + TAB``` : Switches applications
 
 ```⌘ + ⌥ + Power Button``` : Put Mac to sleep
 
