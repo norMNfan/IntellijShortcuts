@@ -1,9 +1,4 @@
-# Shortcuts: 
-
-
-
-
-Intellij](#intellij) | [Mac](#mac) | [Chrome](#mac) 
+# Shortcuts: [Intellij](#intellij) | [Mac](#mac) | [Chrome](#mac) 
 
 Let's stop using our mouses!
 
