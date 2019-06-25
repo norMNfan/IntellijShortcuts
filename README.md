@@ -1,4 +1,9 @@
-# Shortcuts: [Intellij](#intellij) | [Mac](#mac) | [Chrome](#mac) 
+# Shortcuts: 
+
+
+
+
+Intellij](#intellij) | [Mac](#mac) | [Chrome](#mac) 
 
 Let's stop using our mouses!
 
@@ -253,9 +258,9 @@ Type in var.XXX
 
 ```⌘ + 9``` : Jump to last tab
 
-```⌘ + ]``` ```⌘ + →``` : Open next page in your browsing history
+```⌘ + ]``` ```⌘ + ⌥ + →``` : Open next page in your browsing history
 
-```⌘ + [``` ```⌘ + ←``` : Open previous page in your browsing history
+```⌘ + [``` ```⌘ + ⌥ + ←``` : Open previous page in your browsing history
 
 ```⌘ + W``` : Close the current tab or pop-up
 
