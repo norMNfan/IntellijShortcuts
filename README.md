@@ -191,6 +191,8 @@ Type in var.XXX
 
 ```⌘ + A``` : Select all
 
+```Fn + ⌫``` : Delete character in front of cursor
+
 ```⌘ + F``` : Find
 
 ```⌘ + G``` : Find Again: Find the next occurrence of the item previously found
